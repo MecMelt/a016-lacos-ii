@@ -14,5 +14,5 @@ for ( let i of maioresPaises){
 
 // for ( let i in maioresPaises){
 //      console.log(`Rank ${Number(i)+1} - ${maioresPaises[i]}`)
-// }
+// }3
 

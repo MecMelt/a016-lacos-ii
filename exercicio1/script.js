@@ -19,4 +19,4 @@ const array = [
 
 // for(let i in array){
 //     console.log(`Jogador ${Number(i)+1} : ${array[i]}`)
-// }
+// }1
